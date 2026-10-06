@@ -1,0 +1,8 @@
+My biggest regret this assignment was not checking the hint about how to format the strings in the error messages.
+I always forget you can very nicely format strings in Python. I did pretty much the same thing in HW1. I need to learn
+more syntactic sugar! I also had never heard about 'any.' Neat! Your solution made sure that the null type was not a
+subtype of primitives via other.is_object_type; I did not isinstance(other, JavaPrimitiveType). I wonder if that makes
+a significant difference? I cannot think of an instance where it might.
+
+This was a challenging assignment but was super satisfying when I got it to work. I did not take the advice of drawing
+a big diagram for all of it (especially at part 2), and I seriously regret that. I think it added a few hours of work!
